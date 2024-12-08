@@ -1,13 +1,6 @@
-# lwc-e-commerce-recipe
+# E-commerce
 
 This project is developed part of the Lightning web component work shop series. We are building a simple shopping experience using LWC in Salesforce. This project is just for demonstration or study purpose. This project is inspired from the Salesforce's trailhead recipes.
-
-# Developers
-
-<ul>
-  <li>Rahul Gawale</li>
-  <li>Pratap Jadhavar</li>
-</ul>
 
 # Steps to setup the project
 
